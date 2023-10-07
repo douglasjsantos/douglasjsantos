@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Douglas Santos</h1>
-<h3 align="center">A passionate FrontEnd developer from Brazil</h3>
 
-- 🔭 I’m currently working on **PL/SQL Developer**
+- 🔭 I'm currently working as a **PL/SQL developer**
 
 - 🌱 I’m currently learning **React, .NET, Java and SQL**
 
