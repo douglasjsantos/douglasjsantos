@@ -2,7 +2,7 @@
 
 - 🔭 I'm currently working as a **PL/SQL developer**
 
-- 🌱 I’m currently learning **React, .NET, Java and SQL**
+- 🌱 I’m currently learning **React and .NET**
 
 - 📫 How to reach me **douglas_j.santos@hotmail.com**
 
