@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Douglas Santos</h1>
 
-- 🔭 I'm currently working as a **PL/SQL developer**
-
-- 🌱 I’m currently learning **React and .NET**
+- 🌱 I’m currently learning **React and Kotlin**
 
 - 📫 How to reach me **douglas_j.santos@hotmail.com**
 
