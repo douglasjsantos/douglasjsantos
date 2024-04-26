@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Douglas Santos</h1>
 
-- 🌱 I’m currently learning **React and Kotlin**
+- 🌱 I’m currently learning **React, Kotlin and Java**
 
 - 📫 How to reach me **douglas_j.santos@hotmail.com**
 
