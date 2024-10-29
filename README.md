@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Douglas Santos</h1>
 
-- 🌱 I’m currently learning **SpringBoot and React**
+- 🌱 I’m currently learning **SpringBoot, Laravel and Vue**
 
 - 📫 How to reach me **douglas_j.santos@hotmail.com**
 
