@@ -16,7 +16,7 @@
 <h3 align="left">Tech Stack:</h3>
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,spring,react,angular,aws,docker&theme=dark&perline=5" />
+    <img src="https://skillicons.dev/icons?i=java,spring,react,angular,aws,docker&theme=dark&perline=6" />
   </a>
 </p>
 
