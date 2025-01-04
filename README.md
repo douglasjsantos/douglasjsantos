@@ -11,9 +11,7 @@
   <a href="https://www.linkedin.com/in/douglasjsantos/" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
   </a>
-  <a href="mailto:douglas_j.santos@hotmail.com" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/gmail.svg" alt="Gmail" height="30" width="40" />
-  </a>
+  
 </p>
 
 <h3 align="left">Tech Stack:</h3>
