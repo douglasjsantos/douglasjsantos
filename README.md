@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Douglas Santos</h1>
 
-- 🌱 I’m currently learning **Java + Spring core + Angular/React + Cloud**
+- 🌱 I’m currently learning **Java + Spring core + Angular/React + Cloud + Docker**
 
 - 📫 How to reach me **douglas_j.santos@hotmail.com**
 
@@ -12,10 +12,10 @@
 <h3 align="left">Tech Stack:</h3>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,spring,react,angular,aws&theme=dark&perline=5" />
+    <img src="https://skillicons.dev/icons?i=java,spring,react,angular,aws,docker&theme=dark&perline=5" />
   </a>
 </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=douglasjsantos&show_icons=true&locale=en&layout=compact" alt="douglasjsantos" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=douglasjsantos&show_icons=true&locale=en&layout=compact&theme=dark" alt="douglasjsantos" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=douglasjsantos&show_icons=true&locale=en" alt="douglasjsantos" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=douglasjsantos&show_icons=true&locale=en&theme=dark" alt="douglasjsantos" /></p>
