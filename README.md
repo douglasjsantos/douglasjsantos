@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Douglas Santos</h1>
+<h2 align="center">Hi 👋, I'm Douglas Santos</h2>
 
 - 🌱 I’m currently learning **Java + Spring core + Angular/React + Cloud + Docker**
 
