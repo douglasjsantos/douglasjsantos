@@ -13,6 +13,6 @@
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
 
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=douglasjsantos&show_icons=true&locale=br&layout=compact" alt="douglasjsantos" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=douglasjsantos&show_icons=true&locale=en&layout=compact" alt="douglasjsantos" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=douglasjsantos&show_icons=true&locale=en" alt="douglasjsantos" /></p>
