@@ -6,6 +6,8 @@
 
 - 🌍 Outside of coding, I'm passionate about **gaming**, fitness, and improving my language skills. Currently, I'm focusing on improving my **English fluency** to expand my professional and personal network.
 
+- 📫 How to reach me **douglas_j.santos@hotmail.com**
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
   <a href="https://www.linkedin.com/in/douglasjsantos/" target="blank">
